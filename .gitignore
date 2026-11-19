@@ -2,3 +2,7 @@
 .env
 ./combined.log
 ./error.log
+# Added by Auto-Setup
+dist/
+build/
+
